@@ -1,0 +1,12 @@
+├── boot
+│   └── grub.cfg
+├── casper
+│   ├── initrd
+│   ├── version.info
+│   └── vmlinuz
+├── grub
+│   └── grub.cfg
+├── grubnetx64.efi.signed
+├── ipxe.efi
+├── script.ipxe
+└── undionly.kpxe
